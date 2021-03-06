@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\bin\Debug\netcoreapp3.1\APIConnection.deps.json
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\bin\Debug\netcoreapp3.1\APIConnection.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\bin\Debug\netcoreapp3.1\APIConnection.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\APIConnection\obj\Debug\netcoreapp3.1\APIConnection.pdb

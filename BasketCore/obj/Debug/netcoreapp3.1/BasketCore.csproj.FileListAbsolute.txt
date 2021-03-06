@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\bin\Debug\netcoreapp3.1\BasketCore.deps.json
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\bin\Debug\netcoreapp3.1\BasketCore.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\bin\Debug\netcoreapp3.1\BasketCore.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketCore\obj\Debug\netcoreapp3.1\BasketCore.csproj.CoreCompileInputs.cache

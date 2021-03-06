@@ -1,0 +1,14 @@
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\BasketServices.deps.json
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\BasketServices.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\BasketServices.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\APIConnection.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\BasketCore.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\APIConnection.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\bin\Debug\netcoreapp3.1\BasketCore.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\BasketService\obj\Debug\netcoreapp3.1\BasketServices.pdb

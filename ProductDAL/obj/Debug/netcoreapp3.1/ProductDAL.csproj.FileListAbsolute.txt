@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\bin\Debug\netcoreapp3.1\ProductDAL.deps.json
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\bin\Debug\netcoreapp3.1\ProductDAL.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\bin\Debug\netcoreapp3.1\ProductDAL.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.dll
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.pdb
+C:\Users\Hasan\Desktop\Projeler\CSTech-Backend-Challenge\CSTech-Backend-Challenge\ProductDAL\obj\Debug\netcoreapp3.1\ProductDAL.csprojAssemblyReference.cache
